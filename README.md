@@ -4,28 +4,16 @@ Bem-vindo ao repositório do jogo educativo desenvolvido como parte do Trabalho 
 
 🌟 Sobre o Projeto
 
-Em um futuro distópico onde a música foi proibida, um grupo de jovens descobre segredos históricos sobre a importância da música e embarca em uma jornada para restaurá-la. O jogo é dividido em três capítulos, cada um abordando conceitos musicais fundamentais:
+Um aluno junto a um professor, viajam através de momentos importantes e curiosos da historia da musica. Juntos eles conhecerão icones importantes para a música atual.
 
-Capítulo 1: Notas Musicais — Descubra a origem das notas (Dó, Ré, Mi, Fá, Sol, Lá, Si) e como elas são utilizadas na criação de melodias.
+Capítulo 1: Grécia antiga — Descubra a origem das notas musicais e como pitágoras as descobriu.
 
-Capítulo 2: Tempo e Ritmo — Explore como a música se organiza no tempo através de compassos, ritmos e assinaturas.
+Capítulo 2: Ideade média — Explore como as notas musicais foram nomeadas da forma que conhecemos hoje.
 
-Capítulo 3: Intervalos Musicais — Entenda a relação entre diferentes notas e como elas formam harmonias.
+Capítulo 3: Harmonia — Entenda a relação entre diferentes notas e como elas formam harmonias.
+
+Capitulo 4: Tartini — Conheça a história mistica por trás do violinista tartini e o ajude a superar os desafios.
 
 Além disso, o jogo apresenta eventos históricos importantes, como as descobertas de Pitágoras na Grécia antiga e a criação dos nomes das notas musicais.
 
-🎮 Gameplay e Metodologia
 
-O jogo adota a metodologia STEAM, promovendo aprendizado interdisciplinar através de desafios e atividades práticas que combinam:
-
-Ciência: Estudo das frequências sonoras e vibrações.
-
-Tecnologia: Desenvolvimento do jogo e interação digital.
-
-Engenharia: Criação de mecanismos interativos no jogo.
-
-Artes: Expressão musical e narrativa imersiva.
-
-Matemática: Relação entre frequências, intervalos e padrões rítmicos.
-
-A gamificação está presente em cada parte do jogo através de missões, recompensas e desafios que incentivam o aprendizado contínuo e divertido.
